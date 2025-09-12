@@ -1,0 +1,22 @@
+title: "John Schmidt"
+description: "Resume - Portfolio - Tutorials"
+baseurl: ""
+theme: jekyll-theme-cayman
+url: ""
+
+hearder_pages:
+  - portfolio.md
+  - tutorials.md
+
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name/
+
+plugins:
+  -jekyll-seo-tag
+  -jekyll-feed
+
+email: "jschmidt901318@gmail.com"
+github_username: "JohnSchmidtN"
+linkedin: "https://www.linkedin.com/in/john-schmidt-1a348a219/"
