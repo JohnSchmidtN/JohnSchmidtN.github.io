@@ -1,1 +1,0 @@
-# JohnSchmidtN.github.io
