@@ -1,10 +1,10 @@
 title: "John Schmidt"
-description: "Resume - Portfolio - Tutorials"
+description: "Resume • Portfolio • Tutorials"
 baseurl: ""
 theme: jekyll-theme-cayman
 url: ""
 
-hearder_pages:
+header_pages:
   - portfolio.md
   - tutorials.md
 
@@ -14,8 +14,8 @@ collections:
     permalink: /projects/:name/
 
 plugins:
-  -jekyll-seo-tag
-  -jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-feed
 
 email: "jschmidt901318@gmail.com"
 github_username: "JohnSchmidtN"
