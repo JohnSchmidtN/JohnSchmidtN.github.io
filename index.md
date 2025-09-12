@@ -8,6 +8,8 @@ Computer Science student focused on Web Development. I enjoy working through pro
 **Email:**
 [jschmidt901318@gmail.com](mailto:jschmidt901318@gmail.com)
 
-**LinkedIn:**
+**LinkedIn:** 
+[www.LinkedIn.com](https://www.linkedin.com/in/john-schmidt-1a348a219/)
 
 **GitHub:**
+[JohnSchmidtN](https://github.com/JohnSchmidtN)
