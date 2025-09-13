@@ -10,7 +10,7 @@ Enthusiastic Computer Science student with a focus on software engineering and w
 [jschmidt901318@gmail.com](mailto:jschmidt901318@gmail.com)
 
 **LinkedIn:** 
-[www.LinkedIn.com](https://www.linkedin.com/in/john-schmidt-1a348a219/)
+[LinkedIn](https://www.linkedin.com/in/john-schmidt-1a348a219/)
 
 **GitHub:**
 [JohnSchmidtN](https://github.com/JohnSchmidtN)
