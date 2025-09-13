@@ -1,8 +1,10 @@
-
+<!-- layout: default
+title: Home
+--->
 
 
 # Hello, I'm **John Schmidt**
-Computer Science student focused on Web Development. I enjoy working through problems to find solutions. 
+Enthusiastic Computer Science student with a focus on software engineering and web development, eager to launch a career in technology. Experienced in customer service and sales within the auto parts industry, with proven strengths in problem-solving, communication, and teamwork. Skilled at learning new technologies quickly and applying analytical thinking to deliver solutions. Seeking an entry-level opportunity to contribute transferable skills, grow technical expertise, and support the success of a software development team.
 
 **Email:**
 [jschmidt901318@gmail.com](mailto:jschmidt901318@gmail.com)
