@@ -1,6 +1,4 @@
-layout: default
-title: Home
----
+
 
 
 # Hello, I'm **John Schmidt**
